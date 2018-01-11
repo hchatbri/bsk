@@ -1,2 +1,2 @@
-# A shape descriptor using binary image salient keypoints (BSK)
-Please use BSK.java
+# Binary image salient keypoints descriptor (BSK)
+A descriptor for shape matching. Please use BSK.java
