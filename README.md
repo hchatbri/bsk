@@ -12,3 +12,4 @@ If you use this code, please cite our work:
   publisher={Springer}
 }
 ```
+Paper: https://www.researchgate.net/publication/324797746_A_novel_shape_descriptor_based_on_salient_keypoints_detection_for_binary_image_matching_and_retrieval
